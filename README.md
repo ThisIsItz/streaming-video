@@ -18,7 +18,7 @@ This App is a streaming video app. In this application, you can sign in via Goog
 
 Using OBS Streaming video application, you will be able to show your own streaming on the web application.
 
-![Viewing Stream](./img/streamview.png)
+![Viewing Stream](./img/streamshowing.png)
 
 
 ## How to start
@@ -45,7 +45,7 @@ To receive videos from OBS in the application, you have to click on `settings` b
 
 Then, click on `apply` and on `ok`. Back in the PANTALLA PRINCIPAL you have to click on `Start Streaming` and that's all. The application will show the streaming.
 
-![Viewing Stream](./img/streamview.png)
+![Viewing Stream](./img/streamshowing.png)
 
 
 ## Built Using
