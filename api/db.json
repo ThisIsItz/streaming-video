@@ -1,13 +1,13 @@
 {
   "streams": [
     {
-      "title": "wqeqwewqe",
-      "description": "qwewqeqwe",
+      "title": "Title",
+      "description": "Description",
       "id": 1
     },
     {
-      "title": "El nuevo",
-      "description": "Soy el nuevo",
+      "title": "New Streaming",
+      "description": "This is a new streaming",
       "id": 3
     },
     {
@@ -16,8 +16,8 @@
       "id": 4
     },
     {
-      "title": "Desde otra cuenta",
-      "description": "Eso es",
+      "title": "This is a new stream",
+      "description": "My stream",
       "userId": "118330992309867219064",
       "id": 7
     },
