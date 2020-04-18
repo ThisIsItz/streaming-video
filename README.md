@@ -7,14 +7,18 @@ This App is a streaming video app. In this application, you can sign in via Goog
 ![Create Stream](./img/streamcreate.png)
 *Creating a stream*
 
+
 ![Edit Stream](./img/streamedit.png)
 *Editing a stream*
+
 
 ![Delete Stream](./img/streamdelete.png)
 *Deleting a stream*
 
+
 ![GoogleAuth Stream](./img/streamgoogleauth.png)
 *Google Authenticator*
+
 
 Using OBS Streaming video application, you will be able to show your own streaming on the web application.
 
